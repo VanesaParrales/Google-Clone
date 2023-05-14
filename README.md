@@ -23,5 +23,5 @@ Sección donde se encuentra la navegación principal de Google, como la foto de 
 * Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
  ## ¡Link al Demo!
- Visualiza el proyecto terminado aqui: [Clonacion de Google](https://vanesaparrales.github.io/Google-Clone/)
+ Visualiza el proyecto terminado aqui: [Clonacion de Google](https://vanesaparrales.github.io/Google-Clone/) 
 
