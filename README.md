@@ -1,5 +1,6 @@
 # Clonacion de la interfaz de Google
 ###### Creado con HTML y CSS en el bootcamp de TecnolochicasPro 
+![Google](https://github.com/VanesaParrales/Google-Clone/assets/81834671/dc2c2eae-bd11-41fa-9724-dc1b3f947fa3)
 
 ## INDICE
   * [INTRO](https://github.com/VanesaParrales/Google-Clone/blob/main/README.md#intro)
@@ -24,6 +25,6 @@ Sección donde se encuentra la navegación principal de Google, como la foto de 
 
  ## ¡Link al Demo!
  Visualiza el proyecto terminado aqui: [Clonacion de Google](https://vanesaparrales.github.io/Google-Clone/) 
-![Google](https://github.com/VanesaParrales/Google-Clone/assets/81834671/dc2c2eae-bd11-41fa-9724-dc1b3f947fa3)
+
 
 
