@@ -1,6 +1,7 @@
 # Clonacion de la interfaz de Google
 ###### Creado con HTML y CSS en el bootcamp de TecnolochicasPro 
-![Google](https://github.com/VanesaParrales/Google-Clone/assets/81834671/dc2c2eae-bd11-41fa-9724-dc1b3f947fa3)
+
+![Google](https://github.com/VanesaParrales/Google-Clone/assets/81834671/dc2c2eae-bd11-41fa-9724-dc1b3f947fa3) 
 
 ## INDICE
   * [INTRO](https://github.com/VanesaParrales/Google-Clone/blob/main/README.md#intro)
